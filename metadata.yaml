@@ -1,0 +1,40 @@
+_repo: The-Great-Implication_73231
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Lee, Stanley R.
+    deathdate: 1997
+    gutenberg_agent_id: '46488'
+    url: http://www.gutenberg.org/2009/agents/46488
+description: ''
+gutenberg_issued: '2024-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73231'
+language: en
+pgterms:marc905: 20240225131645lee
+pgterms:marc906: '1961'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1961.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Time travel -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Great Implication
+url: http://www.gutenberg.org/ebooks/73231
