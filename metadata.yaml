@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 73231-h/images/cover.jpg
 creator:
   author:
     agent_name: Lee, Stanley R.
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '46488'
     url: http://www.gutenberg.org/2009/agents/46488
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73231#The-Great-Implication
 gutenberg_issued: '2024-03-22'
 gutenberg_type: Text
 identifiers:
